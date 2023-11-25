@@ -10,4 +10,4 @@ Run `bun install` or `npm install`
 
 ## Usage
 
-Run `bun run client.js` or `npm run client.js`
+Run `bun client.js` or `node client.js`
